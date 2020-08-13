@@ -1,0 +1,3 @@
+[submodule "Modules/Graphic.Component"]
+	path = Modules/Graphic.Component
+	url = https://github.com/jaywapp/Graphic.Component.git
